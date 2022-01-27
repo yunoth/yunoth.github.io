@@ -646,9 +646,9 @@ input, select, textarea {
 
 		.image:after {
 			pointer-events: none;
-			#background-image: url("../../images/personimage.jpeg");
-			#background-color: rgba(19, 21, 25, 0.5);
-			border-radius: 4px;
+			/* background-image: url("../../images/personimage.jpeg"); */
+			/* background-color: rgba(19, 21, 25, 0.5); */
+			/* border-radius: 4px; */
 			content: '';
 			display: block;
 			height: 100%;
